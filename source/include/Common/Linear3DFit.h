@@ -34,7 +34,7 @@
 #include <cmath>
 #include <vector>
 
-#include "ThreeVector.h"
+#include "Common/ThreeVector.h"
 
 /**
 * Class Linear3DFit.
